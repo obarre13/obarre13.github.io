@@ -1,0 +1,43 @@
+body {
+     style-type="background-color: blue
+	  font-family: Arial 
+	  
+}
+#container {
+	background - color: white;
+	width: 800;
+	margin-left: auto;
+	margin-right: auto;
+	
+	}
+#form {
+	width:330px;
+	margin:0 auto;
+	padding: 40px;
+	background-color:green
+}
+
+#header {
+	background-color: #66CCFF;
+	color: white;
+	text-align: center;
+	
+
+}
+
+#content {
+padding: 10px 
+
+
+}
+
+#nav {
+width: 180px
+float: left;
+}
+#nav ul {
+list-style-type: none;
+padding: 0;
+#nav .selected {
+font-weight: bold;
+}
